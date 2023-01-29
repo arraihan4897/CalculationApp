@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(yellow, rgba(255,255,255));
+    min-height: 650px;
+  
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+text-align: center;
+
+}
+.bx{
+    margin: auto;
+    background-color: rgb(219, 212, 21);
+    border: 1px solid black;
+    border-radius: 10px;
+    width:460px ;
+    max-height: 200px;
+    box-shadow: -30px 30px 30px rgba(50, 50, 50, 0.3);
+}
+.vvvv{
+    margin: 20px;
+  
+    justify-content: space-between;
+}
